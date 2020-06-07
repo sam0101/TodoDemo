@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+I am using React hooks with TypeScript 
+In this TodoApp i have implemented browser local stoarge functionality for the presistance of data. 
 
 In the project directory, you can run:
 
